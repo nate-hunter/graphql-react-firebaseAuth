@@ -1,0 +1,1 @@
+# Backend for GraphQL-React app which uses FireBase for authentication
